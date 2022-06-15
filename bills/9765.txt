@@ -1,0 +1,12 @@
+	Welcome Webcode Retail
+ Bill Number:9765
+Customer Name:hf
+Phone Number456858
+================================
+Products		QTY		Price
+ Sanitizer		8		16
+ Medical Tax			Rs. 0.8
+ Grocery Tax			Rs. 0.0
+ Cold Drinks Tax			Rs. 0.0
+ Total Bil:			 Rs.16.8
+--------------------------------
